@@ -165,8 +165,8 @@ button {
 
   <div class="gallery">
     <img src="IMG_20260430_150104_659.jpg">
-    <img src="">
-    <img src="img3.jpg">
+    <img src="Snapchat-878636611.jpg">
+    <img src="IMG_20260430_171925_372.jpg">
   </div>
 
   <button onclick="nextSection('end')">Final ❤️</button>

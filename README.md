@@ -164,8 +164,8 @@ button {
   <h1>Our Memories 💕</h1>
 
   <div class="gallery">
-    <img src="img1.jpg">
-    <img src="img2.jpg">
+    <img src="IMG_20260430_150104_659.jpg">
+    <img src="">
     <img src="img3.jpg">
   </div>
 
